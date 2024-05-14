@@ -1,0 +1,109 @@
+# PLAYER:
+
+# GAME: Invitation to Bachelor Party
+
+# EMULATOR:
+
+Guest Name: victor
+
+# EMULATOR:
+
+You're inside your cosy living room on a sunny afternoon, and you notice an elegant envelope on the coffee table. It seems to be addressed to you.
+
+,-------------------------------,
+| Coffee Table  Sofa            |
+| [📬]        [🛋️]           |
+|                               |
+| TV            You             |
+| [📺]          [😊]            |
+'-------------------------------'
+A) Open the Envelope
+B) Pet Gus (the dog)
+C) Scratch your A** (just kidding)
+D) Ignore the Envelope
+
+# PLAYER:
+A
+
+# PLAYER:
+
+A
+
+# EMULATOR:
+
+You open the envelope. Inside, you find a beautifully designed invitation card. It shimmers with a golden hue and has intricate designs on the edges.
+
+,-----------------------------------------------,
+|                                               |
+|  Dear Victor,                                 |
+|                                               |
+|  You are cordially invited to embark on a     |
+|  mysterious adventure to celebrate Victor     |
+|  Boels' last days of bachelorhood.            |
+|                                               |
+|  When: soon.                                  |
+|  Dress code: Be ready for anything.           |
+|                                               |
+|  To accept the invitation, solve this riddle: |
+|  "I speak without a mouth and hear without    |
+|  ears. I have no body, but I come alive with  |
+|  wind."                                       |
+|                                               |
+|  Looking forward to seeing you!               |
+|                                               |
+|  Best regards,                                |
+|  The Groomsmen                                |
+|                                               |
+'-----------------------------------------------'
+A) Solve the riddle
+B) Decline the invitation
+
+# PLAYER:
+A
+
+# PLAYER:
+
+A
+
+# EMULATOR:
+
+What is your answer to the riddle?
+
+,-------------------------------,
+|  Enter your answer:           |
+|  [                          ] |
+'-------------------------------'
+
+# PLAYER:
+echo
+
+# PLAYER:
+
+echo
+
+# EMULATOR:
+
+Congratulations! You've solved the riddle correctly. The invitation card transforms, revealing another puzzle for you to solve to find the location of the party.
+
+,-----------------------------------------------,
+|                                               |
+|  You're one step closer to the adventure.     |
+|  Now, can you solve this puzzle to reveal     |
+|  the location of the party?                   |
+|                                               |
+|  "I can be cracked, made, told, and played.   |
+|  What am I?"                                  |
+|                                               |
+|  Enter your answer below:                     |
+|                                               |
+'-----------------------------------------------'
+A) Enter answer
+B) Ask for a hint
+
+# PLAYER:
+A
+
+# PLAYER:
+
+joke
+

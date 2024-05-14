@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.9",
+    "gpt-tokenizer": "^2.1.2",
+    "groq-sdk": "^0.3.3",
+    "openai": "^4.46.1"
+  }
+}
